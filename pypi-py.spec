@@ -20,7 +20,6 @@ Provides: py-python3
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(setuptools_scm)
 BuildRequires : pytest
-BuildRequires : setuptools-python
 BuildRequires : setuptools_scm
 
 %description
