@@ -17,6 +17,9 @@ BuildRequires : buildreq-distutils3
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(setuptools_scm)
 BuildRequires : pytest
+Provides: py
+Provides: py-python
+Provides: py-python3
 
 %description
 .. image:: https://img.shields.io/pypi/v/py.svg
