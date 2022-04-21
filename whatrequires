@@ -1,1 +1,10 @@
 # This file contains recursive sources that require this package
+pypi-beautifulsoup4
+pypi-iso8601
+pypi-posix_ipc
+pypi-pyasn1
+pypi-pyjwt
+pypi-pyparsing
+pypi-rfc3986
+pypi-six
+simplejson
